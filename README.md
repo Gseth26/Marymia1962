@@ -1,2 +1,0 @@
-# Gseth26
-MyCC
